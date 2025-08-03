@@ -93,5 +93,11 @@ This project aims to **forecast future EV adoption** by building a **regression 
 - **Data Source:** Kaggle dataset
 
 ---
-
+ ## 📅 Week 3: App Development – Interactive EV Forecasting Dashboard Built a Streamlit-based interactive web application to visualize electric vehicle (EV) adoption trends and forecasts across counties. 
+### ✅ Key Contributions 
+- Developed `app.py` using **Streamlit** to serve as the app's frontend and backend.
+- - Integrated a pre-trained forecasting model (`forecasting_ev_model.pkl`) for real-time predictions.
+- Added dropdown functionality for **county-level selection** with dynamic EV trend projections.
+  - Focused on **interactivity and user experience**, incorporating visual charts and clean layout design.
+   - Used **matplotlib** and **pandas** to display insightful visualizations and support data-driven exploration. 
 
